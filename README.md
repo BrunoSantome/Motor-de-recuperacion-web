@@ -1,2 +1,2 @@
 # Motor-de-recuperacion-web
-El motor de recuperación es capaz de indizar y recuperar documentos Web a partir de una colección dada. Ante un conjunto de consultas realizadas en lenguaje natural el sistema da como salida una lista ordenada de documentos relevantes de entre los previamente indizados, así como su similitud con la consulta.
+The retrieval engine is able to index and retrieve Web documents from a given collection. Given a set of natural language queries, the system outputs an ordered list of relevant documents from among those previously indexed, as well as their similarity to the query.
